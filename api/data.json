@@ -1,0 +1,29 @@
+{
+  "motorcycle": [
+    {
+      "name": "Click 160",
+      "daily": 400,
+      "weekly": 2400,
+      "monthly": 6000,
+      "image": "http://test.com"
+    }
+  ],
+  "bikes": [
+    {
+      "name": "Click 160",
+      "daily": 400,
+      "weekly": 2400,
+      "monthly": 6000,
+      "image": "http://test.com"
+    }
+  ],
+  "tours": [
+    {
+      "name": "Treking",
+      "location": "Somewhere",
+      "price": 500,
+      "description": "You need to bring water"
+    }
+  ]
+
+}
